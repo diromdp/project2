@@ -16,9 +16,23 @@ export default function Home() {
         <title>
           Franchise Minuman Terpopuler - Franchise New Story Indonesia
         </title>
-        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link
+          rel="apple-touch-icon"
+          sizes="180x180"
+          href="/apple-touch-icon.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href="/favicon-32x32.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="16x16"
+          href="/favicon-16x16.png"
+        />
         <link rel="manifest" href="/site.webmanifest" />
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
         <meta name="msapplication-TileColor" content="#da532c" />
@@ -29,45 +43,47 @@ export default function Home() {
           integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
           crossOrigin="anonymous"
         />
-     
       </Head>
 
       <main>
-        <div className="row">
-          <div className="col-md-12 col-sm-12 p-0">
-            <img src="/img/img1.jpg" alt="proposal1" className="img-fluid" />
-          </div>
-          <div className="col-md-12 col-sm-12 p-0">
-            <img src="/img/img2.jpg" alt="proposal1" className="img-fluid" />
-          </div>
-          <div className="col-md-12 col-sm-12 p-0">
-            <img src="/img/img3.jpg" alt="proposal1" className="img-fluid" />
-          </div>
-          <div className="col-md-12 col-sm-12 p-0">
-            <img src="/img/img4.jpg" alt="proposal1" className="img-fluid" />
-          </div>
-          <div className="col-md-12 col-sm-12 p-0">
-            <img src="/img/img5.jpg" alt="proposal1" className="img-fluid" />
-          </div>
-          <div className="col-md-12 col-sm-12 p-0">
-            <img src="/img/img6.jpg" alt="proposal1" className="img-fluid" />
-          </div>
-          <div className="col-md-12 col-sm-12 p-0">
-            <img src="/img/img7.jpg" alt="proposal1" className="img-fluid" />
-          </div>
-          <div className="col-md-12 col-sm-12 p-0">
-            <img src="/img/img8.jpg" alt="proposal1" className="img-fluid" />
-          </div>
-          <div className="col-md-12 col-sm-12 p-0">
-            <img src="/img/img9.jpg" alt="proposal1" className="img-fluid" />
+        <div className="container">
+          <div className="row">
+            <div className="col-md-12 col-sm-12 p-0">
+              <img src="/img/img1.jpg" alt="proposal1" className="img-fluid" />
+            </div>
+            <div className="col-md-12 col-sm-12 p-0">
+              <img src="/img/img2.jpg" alt="proposal1" className="img-fluid" />
+            </div>
+            <div className="col-md-12 col-sm-12 p-0">
+              <img src="/img/img3.jpg" alt="proposal1" className="img-fluid" />
+            </div>
+            <div className="col-md-12 col-sm-12 p-0">
+              <img src="/img/img4.jpg" alt="proposal1" className="img-fluid" />
+            </div>
+            <div className="col-md-12 col-sm-12 p-0">
+              <img src="/img/img5.jpg" alt="proposal1" className="img-fluid" />
+            </div>
+            <div className="col-md-12 col-sm-12 p-0">
+              <img src="/img/img6.jpg" alt="proposal1" className="img-fluid" />
+            </div>
+            <div className="col-md-12 col-sm-12 p-0">
+              <img src="/img/img7.jpg" alt="proposal1" className="img-fluid" />
+            </div>
+            <div className="col-md-12 col-sm-12 p-0">
+              <img src="/img/img8.jpg" alt="proposal1" className="img-fluid" />
+            </div>
+            <div className="col-md-12 col-sm-12 p-0">
+              <img src="/img/img9.jpg" alt="proposal1" className="img-fluid" />
+            </div>
           </div>
         </div>
+
         <div className={styles.floating}>
           <a
             href="https://api.whatsapp.com/send?phone=+6285700049528&text=Halo admin New Story Indonesia! Saya dapat info promo franchise melalui website New Story Indonesia, saya ingin tahu informasi detail mengenai promo franchise New Story, Terimakasih"
             target="_blank"
           >
-            <img src="/img/whatsapp.png" /> 
+            <img src="/img/whatsapp.png" />
           </a>
         </div>
       </main>
