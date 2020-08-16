@@ -13,9 +13,8 @@ export default function Home() {
           content="franchise minuman, new story indonesia, minuman kekinian, franchise minuman terpopuler saat ini, minuman, waralaba minuman, franchise, peluang, usaha, peluang, bisnis, minuman, terpopuler, waralaba, murah, franchise indonesia, franchise minuman coklat, info franchise waralaba, waralaba terlaris, waralaba terpopuler, franchise, franchise terlaris, franchise terpopuler, franchise minuman coklat"
         />
         <meta name="description" content=" New Story Indonesia " />
-        <title>
-          New Story Indonesia
-        </title>
+        <meta name="google-site-verification" content="VuPl2MMLgcC_iGNbtSHTefk-DnQv9sf3wz6GaI8SQP4" />
+        <title>New Story Indonesia</title>
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -42,6 +41,20 @@ export default function Home() {
           href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
           integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
           crossOrigin="anonymous"
+        />
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=UA-175434830-1"
+        ></script>
+
+        <script
+          dangerouslySetInnerHTML={{
+            __html: ` window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+          
+            gtag('config', 'UA-175434830-1');`,
+          }}
         />
       </Head>
 
