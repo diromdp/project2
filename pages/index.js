@@ -14,7 +14,7 @@ export default function Home() {
         />
         <meta name="description" content=" New Story Indonesia " />
         <title>
-          Franchise Minuman Terpopuler - Franchise New Story Indonesia
+          New Story Indonesia
         </title>
         <link
           rel="apple-touch-icon"
@@ -47,32 +47,32 @@ export default function Home() {
 
       <main>
         <div className="container">
-          <div className="row">
-            <div className="col-md-12 col-sm-12 p-0">
+          <div className="row justify-content-center">
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
               <img src="/img/img1.jpg" alt="proposal1" className="img-fluid" />
             </div>
-            <div className="col-md-12 col-sm-12 p-0">
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
               <img src="/img/img2.jpg" alt="proposal1" className="img-fluid" />
             </div>
-            <div className="col-md-12 col-sm-12 p-0">
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
               <img src="/img/img3.jpg" alt="proposal1" className="img-fluid" />
             </div>
-            <div className="col-md-12 col-sm-12 p-0">
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
               <img src="/img/img4.jpg" alt="proposal1" className="img-fluid" />
             </div>
-            <div className="col-md-12 col-sm-12 p-0">
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
               <img src="/img/img5.jpg" alt="proposal1" className="img-fluid" />
             </div>
-            <div className="col-md-12 col-sm-12 p-0">
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
               <img src="/img/img6.jpg" alt="proposal1" className="img-fluid" />
             </div>
-            <div className="col-md-12 col-sm-12 p-0">
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
               <img src="/img/img7.jpg" alt="proposal1" className="img-fluid" />
             </div>
-            <div className="col-md-12 col-sm-12 p-0">
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
               <img src="/img/img8.jpg" alt="proposal1" className="img-fluid" />
             </div>
-            <div className="col-md-12 col-sm-12 p-0">
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
               <img src="/img/img9.jpg" alt="proposal1" className="img-fluid" />
             </div>
           </div>
