@@ -65,28 +65,43 @@ export default function Home() {
               <img src="/img/img1.jpg" alt="proposal1" className="img-fluid" />
             </div>
             <div className="col-md-9 offset-md-0 col-sm-12 p-0">
-              <img src="/img/img2.jpg" alt="proposal1" className="img-fluid" />
+              <img src="/img/img2.jpg" alt="proposal2" className="img-fluid" />
             </div>
             <div className="col-md-9 offset-md-0 col-sm-12 p-0">
-              <img src="/img/img3.jpg" alt="proposal1" className="img-fluid" />
+              <img src="/img/img3.jpg" alt="proposal3" className="img-fluid" />
             </div>
             <div className="col-md-9 offset-md-0 col-sm-12 p-0">
-              <img src="/img/img4.jpg" alt="proposal1" className="img-fluid" />
+              <img src="/img/img4.jpg" alt="proposal4" className="img-fluid" />
             </div>
             <div className="col-md-9 offset-md-0 col-sm-12 p-0">
-              <img src="/img/img5.jpg" alt="proposal1" className="img-fluid" />
+              <img src="/img/img5.jpg" alt="proposal5" className="img-fluid" />
             </div>
             <div className="col-md-9 offset-md-0 col-sm-12 p-0">
-              <img src="/img/img6.jpg" alt="proposal1" className="img-fluid" />
+              <img src="/img/img6.jpg" alt="proposal6" className="img-fluid" />
             </div>
             <div className="col-md-9 offset-md-0 col-sm-12 p-0">
-              <img src="/img/img7.jpg" alt="proposal1" className="img-fluid" />
+              <img src="/img/img7.jpg" alt="proposal7" className="img-fluid" />
             </div>
             <div className="col-md-9 offset-md-0 col-sm-12 p-0">
-              <img src="/img/img8.jpg" alt="proposal1" className="img-fluid" />
+              <img src="/img/img8.jpg" alt="proposal8" className="img-fluid" />
             </div>
             <div className="col-md-9 offset-md-0 col-sm-12 p-0">
-              <img src="/img/img9.jpg" alt="proposal1" className="img-fluid" />
+              <img src="/img/img9.jpg" alt="proposal9" className="img-fluid" />
+            </div>
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
+              <img src="/img/img10.jpg" alt="proposal10" className="img-fluid" />
+            </div>
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
+              <img src="/img/img11.jpg" alt="proposal11" className="img-fluid" />
+            </div>
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
+              <img src="/img/img12.jpg" alt="proposal12" className="img-fluid" />
+            </div>
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
+              <img src="/img/img13.jpg" alt="proposal13" className="img-fluid" />
+            </div>
+            <div className="col-md-9 offset-md-0 col-sm-12 p-0">
+              <img src="/img/img14.jpg" alt="proposal14" className="img-fluid" />
             </div>
           </div>
         </div>
